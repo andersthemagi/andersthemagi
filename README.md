@@ -2,9 +2,10 @@
 ## Howdy, I'm @andresgsepulveda! 👋
 
 - 👀 I’m interested in software design and web development.
-- 🌱 I’m currently learning everything 🤣
-- 📫 [LinkedIn](https://www.linkedin.com/in/andresgsepulveda/)
-- 📫 [Email](mailto:andres.sepulveda808@gmail.com)
+- 🌱 I’m currently learning everything 🤣 Open to new ideas and opportunities!
+- ❤️ Love working out, hiking, and video games.
+  - 🎲 3-year GM for D&D 5E, Eberron and Ravenloft are my main settings for running/playing the game
+- 📫 [Email](mailto:andres.sepulveda808@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andresgsepulveda/)
 
 ### Languages, Frameworks, etc.
 
