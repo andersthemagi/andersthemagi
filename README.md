@@ -6,6 +6,11 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/andresgsepulveda/)
 - 📫 [Email](mailto:andres.sepulveda808@gmail.com)
 
+### Languages, Frameworks, etc.
+
+* **Languages:** C, C++, CSS, JS, HTML, PHP, Python, R, Wordpress
+* **Frameworks/APIs:** Angular, Discord.py, React, Vue
+
 ## GitHub Stats 
 
 [![Andres' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresgsepulveda&include_all_commits=true&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
