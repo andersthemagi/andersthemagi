@@ -1,5 +1,5 @@
 
-## Howdy, I'm @andresgsepulveda
+## Howdy, I'm @andresgsepulveda! 👋
 
 - 👀 I’m interested in software design and web development.
 - 🌱 I’m currently learning everything 🤣
