@@ -1,16 +1,17 @@
 
 ## Howdy, I'm @andersthemagi! 👋
 
-- 👀 I’m interested in software design and web development.
-- 🌱 I’m currently learning everything 🤣 Open to new ideas and opportunities!
-- ❤️ Love working out, hiking, and video games.
-  - 🎲 5-year GM for D&D 5E, Eberron and Ravenloft are my main settings for running/playing the game
-- 📫 [Email](mailto:andres.sepulveda808@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andresgsepulveda/)
+5+ years of experience building and leading software projects. Leveraging APIs, databases, and UI/UX principles to proliferate scalable software solutions in various markets. Experience working with reconnaissance organizations, national defense, astronomical researchers, and now the BevAlc industry. I am passionate about building solutions that support business objectives and bring positive effect to the end user.
 
-### Languages, Frameworks, etc.
+TTRPG, Video Game, and Tattoo Enthusiast. Lifelong learner excited to network and grow with a team of diverse individuals
 
-* **Languages:** C, C#/.NET, C++, CSS, JS, Python, R
-* **Frameworks/APIs:** React
+### Current Role: R&D Software Developer - Supplier E-Commerce
+
+- Maintaining + Developing Supplier-focused product suite for 1k+ Suppliers and 2k+ Concurrent Users
+- Technical SME on team for Supplier reporting transmission and tools, MI/NC/WY control state reporting file formats, etc.
+- Rapid deployment of API tools, Web Dashboards, and Custom SQL Tables on DSDLink to facilitate product data and syndication across the BevAlc Industry
+- Leading team of 3 analysts on UI/UX Research for eCommerce Information Management tools
+- Skills: JavaScript · C# · User Interface Design · API Development · Google Maps API · Snowflake · Chai.js · Web Development
 
 ## GitHub Stats 
 
