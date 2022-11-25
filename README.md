@@ -1,16 +1,16 @@
 
-## Howdy, I'm @andresgsepulveda! 👋
+## Howdy, I'm @andersthemagi! 👋
 
 - 👀 I’m interested in software design and web development.
 - 🌱 I’m currently learning everything 🤣 Open to new ideas and opportunities!
 - ❤️ Love working out, hiking, and video games.
-  - 🎲 3-year GM for D&D 5E, Eberron and Ravenloft are my main settings for running/playing the game
+  - 🎲 5-year GM for D&D 5E, Eberron and Ravenloft are my main settings for running/playing the game
 - 📫 [Email](mailto:andres.sepulveda808@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andresgsepulveda/)
 
 ### Languages, Frameworks, etc.
 
-* **Languages:** C, C++, CSS, JS, HTML, PHP, Python, R, Wordpress
-* **Frameworks/APIs:** Angular, Discord.py, React, Vue
+* **Languages:** C, C#/.NET, C++, CSS, JS, Python, R
+* **Frameworks/APIs:** React
 
 ## GitHub Stats 
 
