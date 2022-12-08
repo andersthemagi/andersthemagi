@@ -38,12 +38,10 @@ TTRPG, Video Game, and Tattoo Enthusiast. Lifelong learner excited to network an
 <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### Current Role: R&D Software Developer - Supplier E-Commerce
+### Current Role: R&D Software Developer - Platform
 
-- Maintaining + Developing Supplier-focused product suite for 1k+ Suppliers and 2k+ Concurrent Users
 - Technical SME on team for Supplier reporting transmission and tools, MI/NC/WY control state reporting file formats, etc.
 - Rapid deployment of API tools, Web Dashboards, and Custom SQL Tables on DSDLink to facilitate product data and syndication across the BevAlc Industry
-- Leading team of 3 analysts on UI/UX Research for eCommerce Information Management tools
 - Skills: JavaScript · C# · User Interface Design · API Development · Google Maps API · Snowflake · Chai.js · Web Development
 
 ## GitHub Stats 
