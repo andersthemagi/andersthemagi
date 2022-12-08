@@ -4,7 +4,6 @@
 <p>
   <a href="https://github.com/andersthemagi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/andresgsepulveda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.reddit.com/user/thebigbrochacho" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
 </p>
 
 5+ years of experience building and leading software projects. Leveraging APIs, databases, and UI/UX principles to proliferate scalable software solutions in various markets. Experience working with reconnaissance organizations, national defense, astronomical researchers, and now the BevAlc industry. I am passionate about building solutions that support business objectives and bring positive effect to the end user.
