@@ -1,7 +1,7 @@
 
 ## Howdy, I'm @andersthemagi! 👋
 
-<a href="https://app.daily.dev/andersthemagi"><img src="https://github.com/andersthemagi/andersthemagi/blob/master/devcard.svg" width="400" alt="Andres' Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/andersthemagi"><img src="https://github.com/andersthemagi/andersthemagi/devcard/devcard.svg" width="400" alt="Andres' Dev Card" align="right"/></a>
 
 <p>
   <a href="https://github.com/andersthemagi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
