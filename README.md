@@ -2,9 +2,7 @@
   <a href="https://www.linkedin.com/in/andresgsepulveda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-5+ years of experience building and leading software projects. Leveraging APIs, databases, and UI/UX principles to proliferate scalable software solutions in various markets. Experience working with reconnaissance organizations, national defense, astronomical researchers, and now the BevAlc industry. I am passionate about building solutions that support business objectives and bring positive effect to the end user.
-
-TTRPG, Video Game, and Tattoo Enthusiast. Lifelong learner excited to network and grow with a team of diverse individuals
+I am a seasoned software engineer, recognized for demonstrating a natural aptitude for analyzing and integrating technical requirements, as well as for leveraging APIs, databases, and UI/UX principles to proliferate scalable software solutions in various markets. I am passionate about building solutions that support business objectives and bring positive effect to the end user. TTRPG, Video Game, Homebrewing, and Tattoo Enthusiast. Lifelong learner excited to network and grow. Let's connect!
 
 ### Proficiencies
 
